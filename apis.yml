@@ -1,0 +1,32 @@
+aid: open-government-canada
+name: Open Government, Canada
+description: "Canadian Government Open Data"
+url: http://open.canada.ca/en
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Government"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Government
+  - Public APIs
+apis:
+  - name: Open Government, Canada
+    description: "Canadian Government Open Data"
+    humanURL: http://open.canada.ca/en
+    baseURL: http://open.canada.ca/en
+    tags:
+      - Government
+    properties:
+      - type: Documentation
+        url: http://open.canada.ca/en
+common:
+  - type: Website
+    url: http://open.canada.ca/en
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
