@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: http://open.canada.ca/en
 common:
+  - type: DomainSecurity
+    url: security/open-government-canada-domain-security.yml
   - type: Website
     url: http://open.canada.ca/en
   - type: PublicAPIsListing
